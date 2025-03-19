@@ -1,4 +1,4 @@
-# 🚀 Proyecto de Repaso de JavaScript
+# 🚀 Proyecto de Repaso POO JavaScript
 
 ## 📌 Descripción
 Este proyecto es un taller de repaso de **JavaScript**, donde se exploran conceptos fundamentales como **clases, herencia, manipulación del DOM, funciones, arrays, objetos, promesas**, entre otros.
